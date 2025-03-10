@@ -1,3 +1,12 @@
+<div align="center">
+
+# 🚀 **Sayed Haider Al-Hashemi** 🚀  
+
+![Animated Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sayed+Haider+Al-Hashemi;Software+Engineer;Cloud+Computing+Enthusiast)
+
+</div>
+
+
 # 💫 About Me:
 A dedicated software engineer with a passion for cloud computing and a strong foundation in Javascript, HTML, CSS, frameworks like Express.js, and system design. Skilled in developing scalable solutions, optimizing performance, and collaborating in agile environments to solve complex challenges. Aspires to contribute to a dynamic team, drive impactful projects, and foster technological growth within the company.
 
