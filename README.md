@@ -1,6 +1,8 @@
 <div align="center">
+  
+# 🚀 **Sayed Haider Al-Hashemi** 🚀  
 
-![Animated Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sayed+Haider+Al-Hashemi;Software+Engineer;Cloud+Computing+Enthusiast)
+![Animated Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Cloud+Computing+Enthusiast)
 
 </div>
 
