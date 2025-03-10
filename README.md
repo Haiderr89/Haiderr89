@@ -21,9 +21,9 @@ A dedicated software engineer with a passion for cloud computing and a strong fo
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Haiderr89&repo=Ahlan-Market&theme=dark)](https://github.com/Haiderr89/Ahlan-Market-React-Front-End)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Haiderr89&repo=Ahlan-Market-React-Front-End&theme=dark)](https://github.com/Haiderr89/Ahlan-Market-React-Front-End)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Haiderr89&repo=TripBuddy&theme=dark)](https://github.com/Haiderr89/TripBuddy)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Haiderr89&repo=Spaceman-Game&theme=dark)](https://github.com/Haiderr89/Spaceman-Game-Project)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Haiderr89&repo=Spaceman-Game-Project&theme=dark)](https://github.com/Haiderr89/Spaceman-Game-Project)  
 
 </div>
 
